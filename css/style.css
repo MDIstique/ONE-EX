@@ -1,0 +1,17 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-image: download.jpg;
+}
+div{
+	background-image: download.jpg;
+}
+div {
+    width: 420px;
+    height: 1140px;
+    text-align: center;
+}
+button{
+	background-color: green;
+	box-shadow: 20px;
+}
